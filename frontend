@@ -1,1 +1,25 @@
+# Frontend
 
+The ExactPay frontend provides a simple, mobile-first experience designed for global migrants.
+
+## Planned User Flow
+
+1. User Sign In
+2. Identity Verification
+3. Transfer Amount Entry
+4. Exact Recipient Amount Confirmation
+5. Payment Authorization
+6. Transaction Status
+7. Portable Financial Profile
+
+## Planned Features
+
+- Mobile-first responsive interface
+- Secure authentication
+- Reusable digital identity
+- Financial certainty dashboard
+- Offline-first transaction preparation
+- Payment history
+- Financial profile
+
+The frontend will be implemented as the user interface for the ExactPay platform.
