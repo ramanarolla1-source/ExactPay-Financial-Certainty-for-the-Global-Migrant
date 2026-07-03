@@ -1,1 +1,30 @@
+# Zero-Knowledge Verification
 
+ExactPay uses Zero-Knowledge (ZK) technology to transform identity verification into a reusable digital credential.
+
+Instead of repeatedly submitting identity documents to multiple financial service providers, users verify their identity once. A Zero-Knowledge proof allows participating services to verify eligibility without exposing the user's underlying personal information.
+
+## Objectives
+
+- Verify Once, Reuse Anywhere
+- Preserve user privacy
+- Reduce repeated KYC processes
+- Enable portable financial identity
+
+## Planned Workflow
+
+Identity Verification
+        ↓
+Generate ZK Proof
+        ↓
+Reusable Digital Credential
+        ↓
+Financial Service Verification
+        ↓
+Payment Authorization
+
+## Future Scope
+
+The prototype is designed to support modern Zero-Knowledge proof systems such as Noir, Circom, or other compatible proving frameworks as the platform evolves.
+
+The focus of ExactPay is not to showcase Zero-Knowledge technology itself, but to use it to deliver a simpler and more seamless financial experience.
