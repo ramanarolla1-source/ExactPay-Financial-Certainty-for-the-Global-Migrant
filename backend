@@ -1,1 +1,20 @@
+# Backend
 
+The backend is responsible for:
+
+- User authentication
+- Identity verification workflow
+- Payment orchestration
+- Settlement calculation
+- Portable Financial Profile management
+- API integration with blockchain services
+
+## Planned Services
+
+- Authentication Service
+- Payment Service
+- Identity Service
+- Settlement Service
+- Financial Profile Service
+
+This repository currently focuses on the prototype and architecture developed during the hackathon. The backend services will evolve as the project progresses.
