@@ -1,1 +1,28 @@
+# Smart Contracts
 
+ExactPay uses smart contracts to automate critical parts of the payment lifecycle while ensuring transparency and deterministic execution.
+
+## Planned Contract Modules
+
+### Identity Contract
+- Stores reusable identity credentials.
+- Validates Zero-Knowledge verification proofs.
+- Eliminates repeated identity verification.
+
+### Payment Contract
+- Initiates cross-border payment requests.
+- Records payment transactions.
+- Links sender and recipient.
+
+### Settlement Contract
+- Calculates the final recipient amount.
+- Locks settlement parameters before execution.
+- Ensures financial certainty.
+
+### Financial Profile Contract
+- Maintains a verifiable history of successful transfers.
+- Supports future lending and insurance eligibility.
+
+---
+
+These contracts represent the planned architecture for the ExactPay platform and will be implemented as the project evolves.
