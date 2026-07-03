@@ -1,1 +1,19 @@
-
+Identity Verification
+        │
+        ▼
+Reusable ZK Credential
+        │
+        ▼
+Transfer Request
+        │
+        ▼
+Settlement & Fee Calculation
+        │
+        ▼
+Recipient Amount Confirmation
+        │
+        ▼
+Payment Settlement
+        │
+        ▼
+Portable Financial Profile
